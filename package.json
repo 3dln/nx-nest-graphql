@@ -16,7 +16,8 @@
     "update": "nx migrate latest",
     "workspace-schematics": "nx workspace-schematics",
     "dep-graph": "nx dep-graph",
-    "help": "nx help"
+    "help": "nx help",
+    "prepare": "husky install"
   },
   "private": true,
   "dependencies": {},
